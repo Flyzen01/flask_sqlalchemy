@@ -1,0 +1,54 @@
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    width: 300px;
+    margin-left: 40%;
+
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+}
+
+p {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 20px;
+}
+
+h4 {
+    color: rgb(0, 0, 0);
+}
+
+header {
+    background-color: darkseagreen;
+    height: 80px;
+
+}
+
+body {
+    background-image: url(https://on-desktop.com/wps/Backgrounds_Shining_in_the_center_of_the_green_gradient_107700_.jpg);
+    background-size: content-box;
+    background-repeat: no-repeat;
+}
+
+a:visited {
+    color: rgb(230, 230, 57);
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+}
+
+.or{
+    text-align: center;
+}
+
+.greet {
+    padding-top: 20px;
+    font-size: 35px;
+}
